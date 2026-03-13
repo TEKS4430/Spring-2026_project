@@ -1,5 +1,3 @@
-# Spring-2026_Groupwork
-
 # Group Project – Autonomous Cyber-Physical System
 
 During the course, students will complete a **group project** in which each group designs and develops an **autonomous cyber-physical system** for a process of their choice. The process may relate to, for example, **industry, logistics, transportation, service robotics, environmental monitoring**, or another application area. Groups are free to choose both the **application domain** and the **solution they wish to implement**.
