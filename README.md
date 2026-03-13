@@ -1,9 +1,5 @@
 # Spring-2026_Groupwork
 
-Here is a **clear and natural English translation** suitable for MSc-level course instructions while preserving the structure and meaning of the original text.
-
----
-
 # Group Project – Autonomous Cyber-Physical System
 
 During the course, students will complete a **group project** in which each group designs and develops an **autonomous cyber-physical system** for a process of their choice. The process may relate to, for example, **industry, logistics, transportation, service robotics, environmental monitoring**, or another application area. Groups are free to choose both the **application domain** and the **solution they wish to implement**.
@@ -84,7 +80,3 @@ The video presentation should be supported by **presentation slides**, which sho
 * **video presentation**
 * **project source code**
 * **presentation slides**
-
----
-
-If you want, I can also **tighten this into a more formal “assignment brief” style** (about 20–25% shorter and more typical for course pages).
