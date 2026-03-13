@@ -1,4 +1,4 @@
-# Group Project – Autonomous Cyber-Physical System
+# Group Project – Autonomous cyber-physical system
 
 During the course, students will complete a group project in which each group designs and develops an autonomous cyber-physical system for a process of their choice. The process may relate to, for example, industry, logistics, transportation, service robotics, environmental monitoring, or another application area. Groups are free to choose both the application domain and the solution they wish to implement.
 
@@ -12,7 +12,7 @@ The system must be ROS 2–based. Webots is recommended as the simulation enviro
 
 ---
 
-# Part A: Technical Implementation (4 points)
+# Part A: Technical implementation (4 points)
 
 The technical component of the group project consists of the design and implementation of the selected autonomous cyber-physical system. The implementation must:
 
@@ -28,13 +28,13 @@ The implementation does not need to be a complete production-level system, but i
 
 ---
 
-# Part B: Self-Reflection and Use of AI (4 points)
+# Part B: Self-reflection and use of AI (4 points)
 
 Groups are also encouraged to use AI tools freely when completing the group project. The same general guidelines apply as in the other assignments: the use of AI tools must be **reported transparently for the entire group**, and the group should reflect on **what each member learned while working on the project**.
 
 ---
 
-# Division of Work and Documentation
+# Division of work and documentation
 
 In group work, it is important that the division of work is transparent and documented.
 
@@ -50,7 +50,7 @@ This documentation must be included in the project submission.
 
 ---
 
-# Project Submission (instructions will be further specified)
+# Project submission (instructions will be further specified)
 
 The group project will be submitted towards the end of the course. The exact schedule will be specified later.
 
