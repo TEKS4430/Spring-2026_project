@@ -12,7 +12,7 @@ The system must be ROS 2–based. Webots is recommended as the simulation enviro
 
 ---
 
-# Part A: Technical Implementation
+# Part A: Technical Implementation (4 points)
 
 The technical component of the group project consists of the design and implementation of the selected autonomous cyber-physical system. The implementation must:
 
@@ -28,7 +28,7 @@ The implementation does not need to be a complete production-level system, but i
 
 ---
 
-# Part B: Self-Reflection and Use of AI
+# Part B: Self-Reflection and Use of AI (4 points)
 
 Groups are also encouraged to use AI tools freely when completing the group project. The same general guidelines apply as in the other assignments: the use of AI tools must be **reported transparently for the entire group**, and the group should reflect on **what each member learned while working on the project**.
 
