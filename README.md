@@ -28,7 +28,7 @@ The implementation does not need to be a complete production-level system, but i
 
 ---
 
-# Part B: Self-reflection and use of AI (4 points)
+# Part B: Use of AI tools and self-reflection (4 points)
 
 Groups are also encouraged to use AI tools freely when completing the group project. The same general guidelines apply as in the other assignments: the use of AI tools must be **reported transparently for the entire group**, and the group should reflect on **what each member learned while working on the project**.
 
