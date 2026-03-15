@@ -5,7 +5,7 @@ During the course, students will complete a group project in which each group de
 However, the solution must follow the autonomous system architecture discussed in the course, which consists of the following components:
 
 * Sensing and perception – observing the environment and interpreting data
-* Reasoning, planning and decision-making – decision-making, planning, and logical reasoning
+* Reasoning, planning and decision-making, and logical reasoning
 * Act and control – execution and control of actions
 
 The system must be ROS 2–based. Webots is recommended as the simulation environment, but groups may also use another suitable simulation environment if they prefer.
