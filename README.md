@@ -66,7 +66,7 @@ The video presentation should be supported by **presentation slides**, which sho
 
 * the system architecture
 * the key technical solutions
-* the **design decisions made during the project
+* the design decisions made during the project
 * the use of AI tools and their impact on the work
 * how the functionality and correctness of the solution were verified and tested
 * the group’s self-reflection on learning
