@@ -1,6 +1,8 @@
-# Group Project – Autonomous cyber-physical system
+# Course Project – Autonomous cyber-physical system
 
-During the course, students will complete a group project in which each group designs and develops an autonomous cyber-physical system for a process of their choice. The process may relate to, for example, industry, logistics, transportation, service robotics, environmental monitoring, or another application area. Groups are free to choose both the application domain and the solution they wish to implement.
+During the course, students will complete a project in which each they design and develop an autonomous cyber-physical system for a process of their choice. The process may relate to, for example, industry, logistics, transportation, service robotics, environmental monitoring, or another application area. Students are free to choose both the application domain and the solution they wish to implement.
+
+The project can be done solely by individual student or as a groupwork with a pair. Please, register on the course portal if you want to do the project as a group work.
 
 However, the solution must follow the autonomous system architecture discussed in the course, which consists of the following components:
 
@@ -8,13 +10,13 @@ However, the solution must follow the autonomous system architecture discussed i
 * Reasoning, planning and decision-making, and logical reasoning
 * Act and control – execution and control of actions
 
-The system must be ROS 2–based. Webots is recommended as the simulation environment, but groups may also use another suitable simulation environment if they prefer.
+The system must be ROS 2–based. Webots is recommended as the simulation environment, but students may also use another suitable simulation environment if they prefer.
 
 ---
 
 # Part A: Technical implementation (4 points)
 
-The technical component of the group project consists of the design and implementation of the selected autonomous cyber-physical system. The implementation must:
+The technical component of the project consists of the design and implementation of the selected autonomous cyber-physical system. The implementation must:
 
 * be ROS 2–based
 * be implemented in a simulation environment (e.g., Webots or a similar platform)
@@ -30,13 +32,13 @@ The implementation does not need to be a complete production-level system, but i
 
 # Part B: Use of AI tools and self-reflection (4 points)
 
-Groups are also encouraged to use AI tools freely when completing the group project. The same general guidelines apply as in the other assignments: the use of AI tools must be **reported transparently for the entire group**, and the group should reflect on **what each member learned while working on the project**.
+Students are also encouraged to use AI tools freely when completing the project. The same general guidelines apply as in the other assignments: the use of AI tools must be **reported transparently for the entire project**, and the students must reflect on **what they learned while working on the project**.
 
 ---
 
-# Division of work and documentation
+# In case of group work: Division of work and documentation
 
-In group work, it is important that the division of work is transparent and documented.
+If the project is done as group work, it is important that the division of work is transparent and documented.
 
 The group must:
 
@@ -52,9 +54,9 @@ This documentation must be included in the project submission.
 
 # Project submission (instructions will be further specified)
 
-The group project will be submitted towards the end of the course. The exact schedule will be specified later.
+The project will be submitted towards the end of the course. The exact schedule will be specified later.
 
-The group will present their work in a video presentation, in which they:
+The students (individually or as a group) will present their work in a video presentation, in which they:
 
 * present the implemented system
 * describe the system design
@@ -69,7 +71,7 @@ The video presentation should be supported by **presentation slides**, which sho
 * the design decisions made during the project
 * the use of AI tools and their impact on the work
 * how the functionality and correctness of the solution were verified and tested
-* the group’s self-reflection on learning
+* the student’s self-reflection on learning (also for the group)
 
 ---
 
